@@ -7,3 +7,4 @@ def texte_en_majuscules(texte):
 texte = "bonjour tout le monde"
 resultat = texte_en_majuscules(texte)
 print(resultat)  # Affiche : BONJOUR TOUT LE MONDE
+#test
